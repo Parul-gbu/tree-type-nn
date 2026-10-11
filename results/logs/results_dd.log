@@ -1,0 +1,51 @@
+Cats-vs-Dogs head sweep, N = 1902
+  h=    1 params=     51 train_err(noisy)=0.219 test_err=0.223
+  h=    2 params=    101 train_err(noisy)=0.211 test_err=0.241
+  h=    3 params=    151 train_err(noisy)=0.208 test_err=0.233
+  h=    4 params=    201 train_err(noisy)=0.206 test_err=0.220
+  h=    6 params=    301 train_err(noisy)=0.194 test_err=0.220
+  h=    8 params=    401 train_err(noisy)=0.187 test_err=0.228
+  h=   12 params=    601 train_err(noisy)=0.180 test_err=0.225
+  h=   16 params=    801 train_err(noisy)=0.173 test_err=0.234
+  h=   24 params=   1201 train_err(noisy)=0.155 test_err=0.222
+  h=   32 params=   1601 train_err(noisy)=0.130 test_err=0.258
+  h=   40 params=   2001 train_err(noisy)=0.134 test_err=0.235
+  h=   48 params=   2401 train_err(noisy)=0.119 test_err=0.248
+  h=   64 params=   3201 train_err(noisy)=0.101 test_err=0.244
+  h=   96 params=   4801 train_err(noisy)=0.084 test_err=0.239
+  h=  128 params=   6401 train_err(noisy)=0.068 test_err=0.238
+  h=  256 params=  12801 train_err(noisy)=0.023 test_err=0.254
+  h=  512 params=  25601 train_err(noisy)=0.002 test_err=0.239
+  h= 1024 params=  51201 train_err(noisy)=0.011 test_err=0.248
+  h= 2048 params= 102401 train_err(noisy)=0.004 test_err=0.242
+CIFAR cat-vs-dog head sweep, N = 640
+  h=    1 params=     51 train_err(noisy)=0.397 test_err=0.428
+  h=    2 params=    101 train_err(noisy)=0.247 test_err=0.388
+  h=    3 params=    151 train_err(noisy)=0.250 test_err=0.406
+  h=    4 params=    201 train_err(noisy)=0.251 test_err=0.372
+  h=    6 params=    301 train_err(noisy)=0.194 test_err=0.431
+  h=    8 params=    401 train_err(noisy)=0.170 test_err=0.419
+  h=   12 params=    601 train_err(noisy)=0.146 test_err=0.438
+  h=   16 params=    801 train_err(noisy)=0.090 test_err=0.394
+  h=   24 params=   1201 train_err(noisy)=0.095 test_err=0.438
+  h=   32 params=   1601 train_err(noisy)=0.033 test_err=0.459
+  h=   40 params=   2001 train_err(noisy)=0.016 test_err=0.450
+  h=   48 params=   2401 train_err(noisy)=0.000 test_err=0.419
+  h=   64 params=   3201 train_err(noisy)=0.000 test_err=0.363
+  h=   96 params=   4801 train_err(noisy)=0.000 test_err=0.422
+  h=  128 params=   6401 train_err(noisy)=0.000 test_err=0.397
+  h=  256 params=  12801 train_err(noisy)=0.000 test_err=0.406
+  h=  512 params=  25601 train_err(noisy)=0.000 test_err=0.419
+  h= 1024 params=  51201 train_err(noisy)=0.000 test_err=0.456
+  h= 2048 params= 102401 train_err(noisy)=0.000 test_err=0.441
+tree-level width sweep
+  {'width': 1, 'params': 663, 'nodes': 13, 'train_err': 0.10094637223974763, 'test_err': 0.23529411764705882}
+  {'width': 2, 'params': 1313, 'nodes': 13, 'train_err': 0.09779179810725552, 'test_err': 0.23949579831932774}
+  {'width': 4, 'params': 3216, 'nodes': 16, 'train_err': 0.08149316508937961, 'test_err': 0.23949579831932774}
+  {'width': 8, 'params': 5614, 'nodes': 14, 'train_err': 0.06309148264984227, 'test_err': 0.22268907563025211}
+  {'width': 16, 'params': 14418, 'nodes': 18, 'train_err': 0.054679284963196635, 'test_err': 0.23109243697478993}
+  {'width': 32, 'params': 32020, 'nodes': 20, 'train_err': 0.028916929547844375, 'test_err': 0.23529411764705882}
+  {'width': 64, 'params': 54417, 'nodes': 17, 'train_err': 0.012092534174553101, 'test_err': 0.23949579831932774}
+  {'width': 128, 'params': 44807, 'nodes': 7, 'train_err': 0.0, 'test_err': 0.2184873949579832}
+  {'width': 256, 'params': 128010, 'nodes': 10, 'train_err': 0.0, 'test_err': 0.23739495798319327}
+DONE

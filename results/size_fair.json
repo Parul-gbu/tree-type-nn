@@ -1,0 +1,162 @@
+[
+ {
+  "trunk": [
+   12,
+   24,
+   24
+  ],
+  "trunk_params": 3624,
+  "head": 2,
+  "nodes": 23,
+  "tree_params": 1219,
+  "total": 4843,
+  "train": 0.8948475289169295,
+  "test": 0.7457983193277311,
+  "secs": 19.213767290115356
+ },
+ {
+  "trunk": [
+   12,
+   24,
+   24
+  ],
+  "trunk_params": 3624,
+  "head": 4,
+  "nodes": 26,
+  "tree_params": 2730,
+  "total": 6354,
+  "train": 0.9100946372239748,
+  "test": 0.7478991596638656,
+  "secs": 18.760070323944092
+ },
+ {
+  "trunk": [
+   12,
+   24,
+   24
+  ],
+  "trunk_params": 3624,
+  "head": 8,
+  "nodes": 24,
+  "tree_params": 5016,
+  "total": 8640,
+  "train": 0.916403785488959,
+  "test": 0.7584033613445378,
+  "secs": 18.303009271621704
+ },
+ {
+  "trunk": [
+   12,
+   24,
+   24
+  ],
+  "trunk_params": 3624,
+  "head": 16,
+  "nodes": 25,
+  "tree_params": 10425,
+  "total": 14049,
+  "train": 0.9416403785488959,
+  "test": 0.75,
+  "secs": 19.44166874885559
+ },
+ {
+  "trunk": [
+   12,
+   24,
+   24
+  ],
+  "trunk_params": 3624,
+  "head": 32,
+  "nodes": 25,
+  "tree_params": 20825,
+  "total": 24449,
+  "train": 0.9800210304942166,
+  "test": 0.7289915966386554,
+  "secs": 26.917290449142456
+ },
+ {
+  "trunk": [
+   24,
+   48,
+   48
+  ],
+  "trunk_params": 13584,
+  "head": 2,
+  "nodes": 35,
+  "tree_params": 3535,
+  "total": 17119,
+  "train": 0.9316508937960042,
+  "test": 0.7626050420168067,
+  "secs": 24.845517873764038
+ },
+ {
+  "trunk": [
+   24,
+   48,
+   48
+  ],
+  "trunk_params": 13584,
+  "head": 4,
+  "nodes": 25,
+  "tree_params": 5025,
+  "total": 18609,
+  "train": 0.955310199789695,
+  "test": 0.7647058823529411,
+  "secs": 20.042670726776123
+ },
+ {
+  "trunk": [
+   24,
+   48,
+   48
+  ],
+  "trunk_params": 13584,
+  "head": 8,
+  "nodes": 27,
+  "tree_params": 10827,
+  "total": 24411,
+  "train": 0.9794952681388013,
+  "test": 0.7794117647058824,
+  "secs": 22.989966869354248
+ },
+ {
+  "trunk": [
+   24,
+   48,
+   48
+  ],
+  "trunk_params": 13584,
+  "head": 16,
+  "nodes": 11,
+  "tree_params": 8811,
+  "total": 22395,
+  "train": 1.0,
+  "test": 0.7584033613445378,
+  "secs": 8.650547981262207,
+  "pruned_nodes": 11,
+  "pruned_tree_params": 8811,
+  "pruned_total": 22395,
+  "pruned_train": 1.0,
+  "pruned_test": 0.7584033613445378
+ },
+ {
+  "trunk": [
+   24,
+   48,
+   48
+  ],
+  "trunk_params": 13584,
+  "head": 32,
+  "nodes": 4,
+  "tree_params": 6404,
+  "total": 19988,
+  "train": 1.0,
+  "test": 0.7815126050420168,
+  "secs": 4.060023784637451,
+  "pruned_nodes": 4,
+  "pruned_tree_params": 6404,
+  "pruned_total": 19988,
+  "pruned_train": 1.0,
+  "pruned_test": 0.7815126050420168
+ }
+]

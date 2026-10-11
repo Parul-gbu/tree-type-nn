@@ -1,0 +1,14 @@
+Cats vs Dogs
+   {'entropy': 0.997, 'centre_mass': 0.299, 'cy': 14.931, 'cx': 15.759, 'depth': 0, 'name': 'root', 'n_fire': 934}
+   {'entropy': 0.992, 'centre_mass': 0.263, 'cy': 14.6, 'cx': 15.222, 'depth': 1, 'name': 'root.A', 'n_fire': 8}
+   {'entropy': 0.998, 'centre_mass': 0.285, 'cy': 15.148, 'cx': 15.712, 'depth': 1, 'name': 'root.B', 'n_fire': 91}
+   {'entropy': 0.991, 'centre_mass': 0.299, 'cy': 16.129, 'cx': 16.132, 'depth': 2, 'name': 'root.A.A', 'n_fire': 10}
+   {'entropy': 0.998, 'centre_mass': 0.276, 'cy': 14.805, 'cx': 15.725, 'depth': 2, 'name': 'root.B.A', 'n_fire': 123}
+   {'entropy': 0.999, 'centre_mass': 0.26, 'cy': 15.379, 'cx': 15.647, 'depth': 2, 'name': 'root.B.B', 'n_fire': 91}
+CIFAR-10
+   {'entropy': 0.996, 'centre_mass': 0.309, 'cy': 15.997, 'cx': 15.585, 'depth': 0, 'name': 'airplane root', 'n_fire': 321}
+   {'entropy': 0.997, 'centre_mass': 0.291, 'cy': 15.765, 'cx': 15.649, 'depth': 0, 'name': 'cat root', 'n_fire': 225}
+   {'entropy': 0.997, 'centre_mass': 0.291, 'cy': 15.728, 'cx': 15.442, 'depth': 0, 'name': 'horse root', 'n_fire': 288}
+   {'entropy': 0.997, 'centre_mass': 0.297, 'cy': 16.259, 'cx': 15.48, 'depth': 0, 'name': 'ship root', 'n_fire': 314}
+   {'entropy': 0.996, 'centre_mass': 0.295, 'cy': 15.671, 'cx': 15.661, 'depth': 3, 'name': 'cat root.A.A.A', 'n_fire': 39}
+DONE

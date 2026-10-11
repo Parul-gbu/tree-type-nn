@@ -1,0 +1,398 @@
+{
+ "grid": [
+  {
+   "trunk": [
+    4,
+    8,
+    8
+   ],
+   "trunk_params": 504,
+   "head": 2,
+   "nodes": 28,
+   "tree_params": 588,
+   "total_params": 1092,
+   "train": 0.7649842271293376,
+   "test": 0.7016806722689075
+  },
+  {
+   "trunk": [
+    4,
+    8,
+    8
+   ],
+   "trunk_params": 504,
+   "head": 4,
+   "nodes": 21,
+   "tree_params": 861,
+   "total_params": 1365,
+   "train": 0.7607781282860148,
+   "test": 0.707983193277311
+  },
+  {
+   "trunk": [
+    4,
+    8,
+    8
+   ],
+   "trunk_params": 504,
+   "head": 8,
+   "nodes": 27,
+   "tree_params": 2187,
+   "total_params": 2691,
+   "train": 0.7634069400630915,
+   "test": 0.7016806722689075
+  },
+  {
+   "trunk": [
+    4,
+    8,
+    8
+   ],
+   "trunk_params": 504,
+   "head": 16,
+   "nodes": 36,
+   "tree_params": 5796,
+   "total_params": 6300,
+   "train": 0.7723449001051524,
+   "test": 0.7016806722689075
+  },
+  {
+   "trunk": [
+    4,
+    8,
+    8
+   ],
+   "trunk_params": 504,
+   "head": 32,
+   "nodes": 36,
+   "tree_params": 11556,
+   "total_params": 12060,
+   "train": 0.7839116719242902,
+   "test": 0.7100840336134454
+  },
+  {
+   "trunk": [
+    8,
+    16,
+    16
+   ],
+   "trunk_params": 1712,
+   "head": 2,
+   "nodes": 29,
+   "tree_params": 1073,
+   "total_params": 2785,
+   "train": 0.8207150368033649,
+   "test": 0.7163865546218487
+  },
+  {
+   "trunk": [
+    8,
+    16,
+    16
+   ],
+   "trunk_params": 1712,
+   "head": 4,
+   "nodes": 30,
+   "tree_params": 2190,
+   "total_params": 3902,
+   "train": 0.8307045215562566,
+   "test": 0.7184873949579832
+  },
+  {
+   "trunk": [
+    8,
+    16,
+    16
+   ],
+   "trunk_params": 1712,
+   "head": 8,
+   "nodes": 42,
+   "tree_params": 6090,
+   "total_params": 7802,
+   "train": 0.8375394321766562,
+   "test": 0.7184873949579832
+  },
+  {
+   "trunk": [
+    8,
+    16,
+    16
+   ],
+   "trunk_params": 1712,
+   "head": 16,
+   "nodes": 31,
+   "tree_params": 8959,
+   "total_params": 10671,
+   "train": 0.8512092534174553,
+   "test": 0.7247899159663865
+  },
+  {
+   "trunk": [
+    8,
+    16,
+    16
+   ],
+   "trunk_params": 1712,
+   "head": 32,
+   "nodes": 22,
+   "tree_params": 12694,
+   "total_params": 14406,
+   "train": 0.8554153522607781,
+   "test": 0.7058823529411765
+  },
+  {
+   "trunk": [
+    12,
+    24,
+    24
+   ],
+   "trunk_params": 3624,
+   "head": 2,
+   "nodes": 24,
+   "tree_params": 1272,
+   "total_params": 4896,
+   "train": 0.8922187171398528,
+   "test": 0.7521008403361344
+  },
+  {
+   "trunk": [
+    12,
+    24,
+    24
+   ],
+   "trunk_params": 3624,
+   "head": 4,
+   "nodes": 32,
+   "tree_params": 3360,
+   "total_params": 6984,
+   "train": 0.8932702418506835,
+   "test": 0.7521008403361344
+  },
+  {
+   "trunk": [
+    12,
+    24,
+    24
+   ],
+   "trunk_params": 3624,
+   "head": 8,
+   "nodes": 36,
+   "tree_params": 7524,
+   "total_params": 11148,
+   "train": 0.9090431125131441,
+   "test": 0.7415966386554622
+  },
+  {
+   "trunk": [
+    12,
+    24,
+    24
+   ],
+   "trunk_params": 3624,
+   "head": 16,
+   "nodes": 30,
+   "tree_params": 12510,
+   "total_params": 16134,
+   "train": 0.9216614090431126,
+   "test": 0.7563025210084033
+  },
+  {
+   "trunk": [
+    12,
+    24,
+    24
+   ],
+   "trunk_params": 3624,
+   "head": 32,
+   "nodes": 25,
+   "tree_params": 20825,
+   "total_params": 24449,
+   "train": 0.935856992639327,
+   "test": 0.7584033613445378
+  },
+  {
+   "trunk": [
+    16,
+    32,
+    32
+   ],
+   "trunk_params": 6240,
+   "head": 2,
+   "nodes": 25,
+   "tree_params": 1725,
+   "total_params": 7965,
+   "train": 0.9116719242902208,
+   "test": 0.7478991596638656
+  },
+  {
+   "trunk": [
+    16,
+    32,
+    32
+   ],
+   "trunk_params": 6240,
+   "head": 4,
+   "nodes": 30,
+   "tree_params": 4110,
+   "total_params": 10350,
+   "train": 0.905888538380652,
+   "test": 0.75
+  },
+  {
+   "trunk": [
+    16,
+    32,
+    32
+   ],
+   "trunk_params": 6240,
+   "head": 8,
+   "nodes": 27,
+   "tree_params": 7371,
+   "total_params": 13611,
+   "train": 0.916403785488959,
+   "test": 0.75
+  },
+  {
+   "trunk": [
+    16,
+    32,
+    32
+   ],
+   "trunk_params": 6240,
+   "head": 16,
+   "nodes": 21,
+   "tree_params": 11445,
+   "total_params": 17685,
+   "train": 0.9248159831756047,
+   "test": 0.7542016806722689
+  },
+  {
+   "trunk": [
+    16,
+    32,
+    32
+   ],
+   "trunk_params": 6240,
+   "head": 32,
+   "nodes": 26,
+   "tree_params": 28314,
+   "total_params": 34554,
+   "train": 0.9400630914826499,
+   "test": 0.7563025210084033
+  },
+  {
+   "trunk": [
+    24,
+    48,
+    48
+   ],
+   "trunk_params": 13584,
+   "head": 2,
+   "nodes": 21,
+   "tree_params": 2121,
+   "total_params": 15705,
+   "train": 0.9022082018927445,
+   "test": 0.7584033613445378
+  },
+  {
+   "trunk": [
+    24,
+    48,
+    48
+   ],
+   "trunk_params": 13584,
+   "head": 4,
+   "nodes": 24,
+   "tree_params": 4824,
+   "total_params": 18408,
+   "train": 0.919558359621451,
+   "test": 0.7605042016806722
+  },
+  {
+   "trunk": [
+    24,
+    48,
+    48
+   ],
+   "trunk_params": 13584,
+   "head": 8,
+   "nodes": 22,
+   "tree_params": 8822,
+   "total_params": 22406,
+   "train": 0.9400630914826499,
+   "test": 0.7773109243697479
+  },
+  {
+   "trunk": [
+    24,
+    48,
+    48
+   ],
+   "trunk_params": 13584,
+   "head": 16,
+   "nodes": 24,
+   "tree_params": 19224,
+   "total_params": 32808,
+   "train": 0.943217665615142,
+   "test": 0.7710084033613446
+  },
+  {
+   "trunk": [
+    24,
+    48,
+    48
+   ],
+   "trunk_params": 13584,
+   "head": 32,
+   "nodes": 27,
+   "tree_params": 43227,
+   "total_params": 56811,
+   "train": 0.9837013669821241,
+   "test": 0.7668067226890757
+  }
+ ],
+ "single": [
+  {
+   "head": 16,
+   "params": 801,
+   "train": 0.961093585699264,
+   "test": 0.7626050420168067
+  },
+  {
+   "head": 32,
+   "params": 1601,
+   "train": 0.9879074658254469,
+   "test": 0.7815126050420168
+  },
+  {
+   "head": 64,
+   "params": 3201,
+   "train": 0.9921135646687698,
+   "test": 0.7563025210084033
+  },
+  {
+   "head": 128,
+   "params": 6401,
+   "train": 1.0,
+   "test": 0.7563025210084033
+  },
+  {
+   "head": 256,
+   "params": 12801,
+   "train": 1.0,
+   "test": 0.7584033613445378
+  },
+  {
+   "head": 512,
+   "params": 25601,
+   "train": 1.0,
+   "test": 0.7689075630252101
+  },
+  {
+   "head": 1024,
+   "params": 51201,
+   "train": 1.0,
+   "test": 0.7689075630252101
+  }
+ ]
+}

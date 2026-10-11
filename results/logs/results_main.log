@@ -1,0 +1,5 @@
+cd trunk done 79.0655083656311
+cd {'trunk_params': 13584, 'root_only_train': 0.9468980021030494, 'root_only_test': 0.773109243697479, 'tree_train': 0.9989484752891693, 'tree_test': 0.7668067226890757, 'tree_nodes': 19, 'tree_params': 60819}
+cd multilevel {'root_only_train': 0.9463722397476341, 'root_only_test': 0.7773109243697479, 'tree_train': 0.9652996845425867, 'tree_test': 0.7710084033613446, 'tree_nodes': 18, 'tree_params': 140562}
+cifar {'trunk_params': 13584, 'root_only_train': 0.8703125, 'root_only_test': 0.5175, 'tree_train': 0.9853125, 'tree_test': 0.51125, 'tree_nodes': 70, 'tree_params': 336070}
+DONE
