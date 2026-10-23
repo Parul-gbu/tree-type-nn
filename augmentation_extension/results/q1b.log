@@ -1,0 +1,5 @@
+{"seed": 0, "data": "clean", "train_fit": 1.0, "train_orig": 1.0, "test": 0.6974789915966386, "nodes": 8, "params": 34824, "secs": 3.2449803352355957}
+{"seed": 0, "data": "aug4", "train_fit": 0.9307308096740273, "train_orig": 0.9332281808622502, "test": 0.7310924369747899, "nodes": 51, "params": 222003, "secs": 26.621535062789917}
+{"seed": 1, "data": "clean", "train_fit": 1.0, "train_orig": 1.0, "test": 0.7142857142857143, "nodes": 6, "params": 26118, "secs": 1.7076632976531982}
+{"seed": 1, "data": "aug4", "train_fit": 0.9524185068349106, "train_orig": 0.9526813880126183, "test": 0.7205882352941176, "nodes": 51, "params": 222003, "secs": 26.867559909820557}
+DONE

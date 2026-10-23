@@ -1,0 +1,51 @@
+aug=False n=200 b=0 trunk+tree 8s nodes=18 tree_test=0.651
+aug=False n=200 b=1 trunk+tree 6s nodes=17 tree_test=0.634
+aug=False n=200 b=2 trunk+tree 6s nodes=17 tree_test=0.664
+aug=False n=200 b=3 trunk+tree 5s nodes=16 tree_test=0.618
+aug=False n=200 b=4 trunk+tree 5s nodes=11 tree_test=0.565
+aug=False n=400 b=0 trunk+tree 9s nodes=27 tree_test=0.685
+aug=False n=400 b=1 trunk+tree 8s nodes=20 tree_test=0.662
+aug=False n=400 b=2 trunk+tree 8s nodes=15 tree_test=0.670
+aug=False n=400 b=3 trunk+tree 9s nodes=19 tree_test=0.691
+aug=False n=400 b=4 trunk+tree 9s nodes=21 tree_test=0.599
+aug=False n=800 b=0 trunk+tree 14s nodes=18 tree_test=0.712
+aug=False n=800 b=1 trunk+tree 13s nodes=9 tree_test=0.708
+aug=False n=800 b=2 trunk+tree 15s nodes=21 tree_test=0.704
+aug=False n=800 b=3 trunk+tree 13s nodes=7 tree_test=0.702
+aug=False n=800 b=4 trunk+tree 13s nodes=8 tree_test=0.706
+aug=False n=1600 b=0 trunk+tree 26s nodes=27 tree_test=0.733
+aug=False n=1600 b=1 trunk+tree 27s nodes=23 tree_test=0.752
+aug=False n=1600 b=2 trunk+tree 27s nodes=33 tree_test=0.739
+aug=False n=1600 b=3 trunk+tree 27s nodes=21 tree_test=0.742
+aug=False n=1600 b=4 trunk+tree 27s nodes=25 tree_test=0.723
+shared False 0
+shared False 1
+shared False 2
+shared False 3
+shared False 4
+aug=True n=200 b=0 trunk+tree 8s nodes=21 tree_test=0.584
+aug=True n=200 b=1 trunk+tree 9s nodes=29 tree_test=0.645
+aug=True n=200 b=2 trunk+tree 8s nodes=22 tree_test=0.658
+aug=True n=200 b=3 trunk+tree 10s nodes=34 tree_test=0.643
+aug=True n=200 b=4 trunk+tree 8s nodes=20 tree_test=0.622
+aug=True n=400 b=0 trunk+tree 15s nodes=36 tree_test=0.679
+aug=True n=400 b=1 trunk+tree 15s nodes=32 tree_test=0.664
+aug=True n=400 b=2 trunk+tree 15s nodes=31 tree_test=0.643
+aug=True n=400 b=3 trunk+tree 15s nodes=28 tree_test=0.651
+aug=True n=400 b=4 trunk+tree 14s nodes=27 tree_test=0.616
+aug=True n=800 b=0 trunk+tree 25s nodes=32 tree_test=0.718
+aug=True n=800 b=1 trunk+tree 25s nodes=30 tree_test=0.712
+aug=True n=800 b=2 trunk+tree 28s nodes=56 tree_test=0.702
+aug=True n=800 b=3 trunk+tree 25s nodes=33 tree_test=0.700
+aug=True n=800 b=4 trunk+tree 25s nodes=29 tree_test=0.660
+aug=True n=1600 b=0 trunk+tree 48s nodes=50 tree_test=0.704
+aug=True n=1600 b=1 trunk+tree 45s nodes=39 tree_test=0.723
+aug=True n=1600 b=2 trunk+tree 47s nodes=50 tree_test=0.773
+aug=True n=1600 b=3 trunk+tree 45s nodes=40 tree_test=0.761
+aug=True n=1600 b=4 trunk+tree 46s nodes=35 tree_test=0.748
+shared True 0
+shared True 1
+shared True 2
+shared True 3
+shared True 4
+DONE
